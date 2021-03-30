@@ -1,0 +1,13 @@
+C:\Users\rlaku\source\repos\Frog\Frog\bin\Release\netcoreapp3.1\Frog.exe
+C:\Users\rlaku\source\repos\Frog\Frog\bin\Release\netcoreapp3.1\Frog.deps.json
+C:\Users\rlaku\source\repos\Frog\Frog\bin\Release\netcoreapp3.1\Frog.runtimeconfig.json
+C:\Users\rlaku\source\repos\Frog\Frog\bin\Release\netcoreapp3.1\Frog.runtimeconfig.dev.json
+C:\Users\rlaku\source\repos\Frog\Frog\bin\Release\netcoreapp3.1\Frog.dll
+C:\Users\rlaku\source\repos\Frog\Frog\bin\Release\netcoreapp3.1\Frog.pdb
+C:\Users\rlaku\source\repos\Frog\Frog\obj\Release\netcoreapp3.1\Frog.csprojAssemblyReference.cache
+C:\Users\rlaku\source\repos\Frog\Frog\obj\Release\netcoreapp3.1\Frog.AssemblyInfoInputs.cache
+C:\Users\rlaku\source\repos\Frog\Frog\obj\Release\netcoreapp3.1\Frog.AssemblyInfo.cs
+C:\Users\rlaku\source\repos\Frog\Frog\obj\Release\netcoreapp3.1\Frog.csproj.CoreCompileInputs.cache
+C:\Users\rlaku\source\repos\Frog\Frog\obj\Release\netcoreapp3.1\Frog.dll
+C:\Users\rlaku\source\repos\Frog\Frog\obj\Release\netcoreapp3.1\Frog.pdb
+C:\Users\rlaku\source\repos\Frog\Frog\obj\Release\netcoreapp3.1\Frog.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\rlaku\source\repos\Frog\Frog\bin\Release\netcoreapp3.1\publish\Frog.exe
+C:\Users\rlaku\source\repos\Frog\Frog\bin\Release\netcoreapp3.1\publish\Frog.dll
+C:\Users\rlaku\source\repos\Frog\Frog\bin\Release\netcoreapp3.1\publish\Frog.deps.json
+C:\Users\rlaku\source\repos\Frog\Frog\bin\Release\netcoreapp3.1\publish\Frog.runtimeconfig.json
+C:\Users\rlaku\source\repos\Frog\Frog\bin\Release\netcoreapp3.1\publish\Frog.pdb
